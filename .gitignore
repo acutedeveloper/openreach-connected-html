@@ -1,0 +1,7 @@
+config.rb
+*.html
+*.php
+*.ico
+sass/
+stylesheets/
+.sass-cache/
