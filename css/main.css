@@ -1133,8 +1133,13 @@ a:active {
   -webkit-background-clip: padding-box;
   -moz-background-clip: padding;
   background-clip: padding-box;
+  color: #fff;
 }
-/* line 10, ../sass/_notifications.scss */
+/* line 11, ../sass/_notifications.scss */
+.logo-box a {
+  color: #fff;
+}
+/* line 15, ../sass/_notifications.scss */
 .logo-box img {
   float: left;
   margin-right: 10px;
@@ -1146,7 +1151,7 @@ a:active {
   -moz-background-clip: padding;
   background-clip: padding-box;
 }
-/* line 16, ../sass/_notifications.scss */
+/* line 21, ../sass/_notifications.scss */
 .logo-box p {
   display: block;
   margin-bottom: 0;
@@ -1154,12 +1159,12 @@ a:active {
   font-size: 0.8125em;
 }
 @media (min-width: 768px) {
-  /* line 16, ../sass/_notifications.scss */
+  /* line 21, ../sass/_notifications.scss */
   .logo-box p {
     font-size: 1em;
   }
 }
-/* line 26, ../sass/_notifications.scss */
+/* line 31, ../sass/_notifications.scss */
 .logo-box p a {
   color: #fff;
 }
