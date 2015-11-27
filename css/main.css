@@ -784,7 +784,7 @@ blockquote:before {
 blockquote p {
   font-family: Tahoma, Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
-/* line 47, ../sass/_type.scss */
+/* line 46, ../sass/_type.scss */
 blockquote small {
   margin-top: 10px;
   display: block;
@@ -795,36 +795,36 @@ blockquote small {
   color: #5A5A5A;
 }
 
-/* line 60, ../sass/_type.scss */
+/* line 59, ../sass/_type.scss */
 h1, h2, h3, h4, h5 {
-  font-family: 'btmediumregular', Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: Tahoma, Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #A2238E;
 }
-/* line 64, ../sass/_type.scss */
+/* line 63, ../sass/_type.scss */
 h1 a, h2 a, h3 a, h4 a, h5 a {
   text-decoration: none;
   color: #A2238E;
 }
-/* line 67, ../sass/_type.scss */
+/* line 66, ../sass/_type.scss */
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover {
   text-decoration: underline;
 }
 
-/* line 73, ../sass/_type.scss */
+/* line 72, ../sass/_type.scss */
 h1 {
   font-size: 2em;
   margin: 0 0 25px;
   line-height: 1em;
 }
 
-/* line 79, ../sass/_type.scss */
+/* line 78, ../sass/_type.scss */
 h2 {
   font-size: 1.5em;
   margin: 0 0 15px;
   line-height: 54px;
 }
 
-/* line 85, ../sass/_type.scss */
+/* line 84, ../sass/_type.scss */
 h3 {
   font-size: 1.3em;
   font-weight: 700;
@@ -832,7 +832,7 @@ h3 {
   line-height: 24px;
 }
 
-/* line 92, ../sass/_type.scss */
+/* line 91, ../sass/_type.scss */
 h4 {
   font-size: 1em;
   margin: 0 0 25px;
@@ -840,7 +840,7 @@ h4 {
   line-height: 28px;
 }
 
-/* line 99, ../sass/_type.scss */
+/* line 98, ../sass/_type.scss */
 h5 {
   font-size: 0.8em;
   margin: 0 0 25px;
@@ -848,14 +848,14 @@ h5 {
   line-height: 28px;
 }
 
-/* line 106, ../sass/_type.scss */
+/* line 105, ../sass/_type.scss */
 p {
   font-size: 1em;
   line-height: 1.4em;
   margin: 0 0 20px;
 }
 
-/* line 112, ../sass/_type.scss */
+/* line 111, ../sass/_type.scss */
 pre {
   font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
   margin: 0 0 20px;
@@ -869,41 +869,41 @@ pre {
   word-wrap: break-word;
 }
 
-/* line 125, ../sass/_type.scss */
+/* line 124, ../sass/_type.scss */
 small {
   font-size: 0.8125em;
   line-height: 10px;
 }
 
-/* line 130, ../sass/_type.scss */
+/* line 129, ../sass/_type.scss */
 strong {
   font-weight: bold;
 }
 
-/* line 134, ../sass/_type.scss */
+/* line 133, ../sass/_type.scss */
 em {
   font-style: italic;
 }
 
-/* line 143, ../sass/_type.scss */
+/* line 142, ../sass/_type.scss */
 p.caption {
   font-size: 0.8125em;
   /* 13px */
   font-style: italic;
   color: #111;
 }
-/* line 149, ../sass/_type.scss */
+/* line 148, ../sass/_type.scss */
 p.intro {
   font-size: 1.5em;
   /* 24px */
   line-height: 30px;
 }
-/* line 154, ../sass/_type.scss */
+/* line 153, ../sass/_type.scss */
 p.article-date {
   font-size: 0.8125em;
   font-style: italic;
 }
-/* line 159, ../sass/_type.scss */
+/* line 158, ../sass/_type.scss */
 p.article-tag {
   font-size: 0.75em;
   text-transform: uppercase;
