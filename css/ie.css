@@ -159,20 +159,20 @@ aside .side-list .thumbnail img {
   width: 28.57143%;
   float: left;
 }
-/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.5/sass/susy/language/susy/_gallery.scss */
+/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.6/sass/susy/language/susy/_gallery.scss */
 .gallery figure:nth-child(3n + 1) {
   margin-left: 0;
   margin-right: -100%;
   clear: both;
   margin-left: 0;
 }
-/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.5/sass/susy/language/susy/_gallery.scss */
+/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.6/sass/susy/language/susy/_gallery.scss */
 .gallery figure:nth-child(3n + 2) {
   margin-left: 35.71429%;
   margin-right: -100%;
   clear: none;
 }
-/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.5/sass/susy/language/susy/_gallery.scss */
+/* line 66, ../../../../../../../../Library/Ruby/Gems/2.0.0/gems/susy-2.2.6/sass/susy/language/susy/_gallery.scss */
 .gallery figure:nth-child(3n + 3) {
   margin-left: 71.42857%;
   margin-right: -100%;
