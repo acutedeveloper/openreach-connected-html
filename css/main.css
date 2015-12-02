@@ -242,17 +242,16 @@ header .tab {
   }
 }
 
-/* line 111, ../sass/_grid.scss */
+/* line 112, ../sass/_grid.scss */
 .header-band {
-  font-size: 0.8125em;
-  text-transform: uppercase;
+  font-size: 0.9em;
   background-color: #A2238E;
   color: #fff;
 }
 @media (min-width: 768px) {
-  /* line 111, ../sass/_grid.scss */
+  /* line 112, ../sass/_grid.scss */
   .header-band {
-    font-size: 0.8125;
+    font-size: 0.9em;
   }
 }
 /* line 120, ../sass/_grid.scss */
