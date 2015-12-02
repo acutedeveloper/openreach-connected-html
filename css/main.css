@@ -244,22 +244,14 @@ header .tab {
 
 /* line 112, ../sass/_grid.scss */
 .header-band {
-<<<<<<< HEAD
   font-size: 0.9em;
-=======
-  font-size: 0.875em;
->>>>>>> 1c80007392ecfbfbb5e1cef68aa1fca966dcf97d
   background-color: #A2238E;
   color: #fff;
 }
 @media (min-width: 768px) {
   /* line 112, ../sass/_grid.scss */
   .header-band {
-<<<<<<< HEAD
     font-size: 0.9em;
-=======
-    font-size: 0.875;
->>>>>>> 1c80007392ecfbfbb5e1cef68aa1fca966dcf97d
   }
 }
 /* line 120, ../sass/_grid.scss */
